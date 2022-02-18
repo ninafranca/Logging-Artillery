@@ -10,7 +10,7 @@
             ],
             "program": "${workspaceFolder}\\app.js",
             "env": {
-                "NODE_ENV":"PROD"
+                "NODE_ENV": "prod"
             },
             "outputCapture": "std"
         }
